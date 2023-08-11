@@ -1,2 +1,2 @@
-# Student-Registration-CRUD-project
+# Student-Register-CRUD-project
 
